@@ -1,0 +1,19 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "learning type script examples",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoliyaLiu/learnTS.git"
+  },
+  "author": "Jennifer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoliyaLiu/learnTS/issues"
+  },
+  "homepage": "https://github.com/MoliyaLiu/learnTS#readme"
+}
